@@ -191,7 +191,7 @@ Now *User B* is ready to submit a PR to *User A*.
 
 Finally, *User B* should rename their compiled report so that it can be submitted as part of the assignment.
 
-11. Make sure the working directory of your terminal is your project directory.
+11. Make sure the working directory of your terminal is your project directoy.
 12. Use `mv report.html report_wes.html` to rename the report.
 13. Submit `report_wes.html` as part of the assignment.
 
